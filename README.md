@@ -24,7 +24,7 @@ It will run Laravel/Lumen API server on localhost:8000
 
 ## Install Client & Run
 
-    $ cd ng2
+    $ cd client
     $ npm install
     $ npm start
 
